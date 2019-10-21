@@ -1,0 +1,10 @@
+﻿  NeuralNetwork.cpp
+h:\basicai\basicai\basicai\neuralnetwork.cpp(41): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Source.cpp
+  Generating Code...
+  LINK : H:\BasicAI\BasicAI\x64\Debug\BasicAI.exe not found or not built by the last incremental link; performing full link
+  BasicAI.vcxproj -> H:\BasicAI\BasicAI\x64\Debug\BasicAI.exe
